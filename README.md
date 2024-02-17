@@ -1,6 +1,9 @@
 # Tic Tac Toe
 I'm sure you've played or at least heard of of Tic Tac Toe. A basic but fun game. Coming straight to you with great visuals low-set subtle dark colors.
 
+
+With a simple click on the 3x3 board, you can take turns between X & O. X goes first. The game will inform you of who's move it is. It will also inform if their is a win, loss or draw. With a reset button that autamatically resets 10 seconds after the game ends.
+
 ## Features
 
 - Dark background for Weary eyes
